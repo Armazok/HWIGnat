@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c046ec71148700998e25af0f4bc0d670",
+    "revision": "e5eac6751451bb262e37d6c4766d45f8",
     "url": "/HWIGnat/index.html"
   },
   {
-    "revision": "6a29b439c6ce2bf03a82",
-    "url": "/HWIGnat/static/css/main.ead3ced2.chunk.css"
+    "revision": "3021a52fccd62d6219fb",
+    "url": "/HWIGnat/static/css/main.697c6e85.chunk.css"
   },
   {
     "revision": "1ea0684cc51ba998e05f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HWIGnat/static/js/2.bff5e6d1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6a29b439c6ce2bf03a82",
+    "revision": "3021a52fccd62d6219fb",
     "url": "/HWIGnat/static/js/main.380c32af.chunk.js"
   },
   {

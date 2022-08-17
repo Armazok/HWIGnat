@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/HWIGnat/static/css/main.ead3ced2.chunk.css",
+    "main.css": "/HWIGnat/static/css/main.697c6e85.chunk.css",
     "main.js": "/HWIGnat/static/js/main.380c32af.chunk.js",
     "main.js.map": "/HWIGnat/static/js/main.380c32af.chunk.js.map",
     "runtime-main.js": "/HWIGnat/static/js/runtime-main.e03fa613.js",
@@ -8,15 +8,15 @@
     "static/js/2.bff5e6d1.chunk.js": "/HWIGnat/static/js/2.bff5e6d1.chunk.js",
     "static/js/2.bff5e6d1.chunk.js.map": "/HWIGnat/static/js/2.bff5e6d1.chunk.js.map",
     "index.html": "/HWIGnat/index.html",
-    "precache-manifest.d76e46959b90cec8957b86daddbd4ebd.js": "/HWIGnat/precache-manifest.d76e46959b90cec8957b86daddbd4ebd.js",
+    "precache-manifest.6960f3f35550a7fc880f43dc0a930cd8.js": "/HWIGnat/precache-manifest.6960f3f35550a7fc880f43dc0a930cd8.js",
     "service-worker.js": "/HWIGnat/service-worker.js",
-    "static/css/main.ead3ced2.chunk.css.map": "/HWIGnat/static/css/main.ead3ced2.chunk.css.map",
+    "static/css/main.697c6e85.chunk.css.map": "/HWIGnat/static/css/main.697c6e85.chunk.css.map",
     "static/js/2.bff5e6d1.chunk.js.LICENSE.txt": "/HWIGnat/static/js/2.bff5e6d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e03fa613.js",
     "static/js/2.bff5e6d1.chunk.js",
-    "static/css/main.ead3ced2.chunk.css",
+    "static/css/main.697c6e85.chunk.css",
     "static/js/main.380c32af.chunk.js"
   ]
 }
